@@ -1,0 +1,31 @@
+{
+  "name": "greentour_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sls": "sls offline start --skipCacheInvalidation"
+  },
+  "author": "Muzaffar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.533.0",
+    "aws-serverless-express": "^3.3.6",
+    "axios": "^0.19.0",
+    "billboard-top-100": "^2.5.6",
+    "concurrently": "^4.1.2",
+    "date-and-time": "^0.10.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "express-validation": "^1.0.3",
+    "joi": "^14.3.1",
+    "lyricist": "^2.2.2",
+    "module-alias": "^2.2.2",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "serverless-offline": "^5.12.0",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.22"
+  }
+}
