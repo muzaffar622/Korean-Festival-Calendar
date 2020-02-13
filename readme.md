@@ -1,10 +1,10 @@
 # Fest List
 
-Korea's Festival Calendar for get list of festivals by city
+Korean Festival Calendar
 
 # Getting Started
 
-first of all you should registrate on [DATA.OR.KR](https://www.data.go.kr/) and get API_ADDRESS/KEY for use this API 
+first of all you must register on the [DATA.OR.KR](https://www.data.go.kr/) and take API_ADDRESS/KEY for use this API 
 
 create and put your API_ADDRESS and API KEY as below. 
 ```
@@ -12,7 +12,7 @@ OPEN_KOREA_API = your_api_address
 OPEN_KOREA_KEY = your_api_key
 ```
 
-after that run the server as:
+after run the server as:
 ``` 
 npm i
 nodemon server.js
@@ -43,7 +43,7 @@ available areas
 ```
 
 # TODO List 
-get List by date
+get result by date
 
 # License 
 MIT
