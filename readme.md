@@ -1,6 +1,6 @@
-# Fest List
+# Korean Festival Calendar
+festival information in korea 
 
-Korean Festival Calendar
 
 # Getting Started
 
