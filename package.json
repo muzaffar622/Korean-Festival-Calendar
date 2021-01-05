@@ -12,7 +12,7 @@
   "dependencies": {
     "aws-sdk": "^2.533.0",
     "aws-serverless-express": "^3.3.6",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "billboard-top-100": "^2.5.6",
     "concurrently": "^4.1.2",
     "date-and-time": "^0.10.0",
