@@ -10,7 +10,7 @@
   "author": "Muzaffar",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.533.0",
+    "aws-sdk": "^2.814.0",
     "aws-serverless-express": "^3.3.6",
     "axios": "^0.19.0",
     "billboard-top-100": "^2.5.6",
